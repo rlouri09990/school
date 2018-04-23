@@ -1,0 +1,118 @@
+/*** sectioning elements ***/
+
+body {
+  background-color: #0800b2;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+color: #b2562e
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
